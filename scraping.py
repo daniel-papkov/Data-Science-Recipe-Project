@@ -40,7 +40,7 @@ import csv
 # df = scraping_functions.add_popularity_score_to_df(df)
 # scraping_functions.save_df(df,'FinalCSV.csv')
 
-
+print("Beitza")
 
 df = pd.read_csv('clean_modified.csv')
 # print("Correlations:\n")
@@ -49,7 +49,7 @@ df = pd.read_csv('clean_modified.csv')
 # scraping_functions.predict_rating_linear(df)
 # scraping_functions.predict_rating_nn(df)
 scraping_functions.predict_rating_mlp(df)
-
+print("fuck this shit im out uh uh ♪♪♪")
 #scraping_functions.draw_heatmap_view(df)
 #scraping_functions.draw_heatmap_view_important(df)
 # print("\nModel with Normalized Data")
