@@ -2,7 +2,6 @@ import collections
 import pickle
 import re
 from statistics import LinearRegression
-#from statistics import LinearRegression, correlation
 import time
 from matplotlib.widgets import Lasso
 from numpy import average, shape
@@ -29,3 +28,5 @@ import itertools
 
 import csv
 
+df = pd.read_csv('Most-updated-scrape.csv')
+scraping_functions.scatter_3d(df)

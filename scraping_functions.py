@@ -944,7 +944,8 @@ def clean_data_time(df):
             else:
                 df.drop(index, inplace=True)
 
-    # Save cleaned dataframe to new csv file
+    
+    df = df[(df['Prep'] >= 0) & (df['Cook'] >= 0) & (df['Total'] >= 0)]    # Save cleaned dataframe to new csv file
     #df = df.drop(columns='Unnamed')
     #df = df.drop(df.columns[0], axis=1)
     #print(df.columns)
@@ -1477,3 +1478,19 @@ def predict_rating_mlp(df):
     print(f'Accuracy compared to test data: {accuracy:.3f}')
     
     return y_pred_rounded.flatten()
+
+
+def scatter_3d(df):
+
+    ax = plt.axes(projection='3d')
+
+    xdata = df['Rating']
+    ydata = df['Calories']
+    zdata = df['Total']
+
+    ax.set_xlabel('Rating')
+    ax.set_ylabel('Calories')
+    ax.set_zlabel('Total time')
+
+    ax.scatter3D(xdata, ydata, zdata, c=zdata, depthshade=False)
+    plt.show()
