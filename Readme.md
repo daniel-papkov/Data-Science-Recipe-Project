@@ -7,3 +7,5 @@ This project focuses on predicting recipe ratings by leveraging machine learning
 Our main objective was to build an algorithm that can accurately predict recipe ratings and identify which parameters significantly contribute to a good recipe. We explored different machine learning algorithms, such as Linear Regression, Random Forest, and Neural Network, and performed feature selection and engineering techniques to identify the most relevant factors that influence recipe ratings.
 
 This project is hosted on GitHub and is well-documented to ensure ease of use and understanding. Food bloggers, recipe websites, and cooking enthusiasts can benefit from the insights gained from this project to create high-quality recipes that resonate with their audience. Overall, this project showcases the potential of web scraping and machine learning to gain insights from recipe data and create better recipes.
+
+![image](https://github.com/DanielShapi4a/Data-Science-Recipe-Project/assets/116350669/0da056f9-c3af-49a1-89e0-8ad9c029ad97)
