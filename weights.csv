@@ -1,0 +1,243 @@
+,column,weight
+9,Fat,-9089.0
+11,Protein,-8367.0
+0,Unnamed: 0,-8013.0
+241,Popularity Score,-6512.817720887699
+3,Total,-5785.0
+4,Servings,-4315.0
+1,Prep,-3264.0
+2,Cook,-2521.0
+14,Combined,-1749.0
+8,Calories,-1428.0
+206,onion,-410.0
+15,Z_score,-402.48818497505226
+209,flour,-320.0
+158,garlic,-232.0
+237,egg,-201.0
+6,Meat,-179.0
+154,tomato,-168.0
+163,potato,-155.0
+153,pepper,-152.0
+220,beef,-150.0
+120,potatoe,-150.0
+194,chili,-134.0
+138,parsley,-120.0
+196,cumin,-117.0
+192,bread,-106.0
+85,vegetable,-103.0
+217,rice,-100.0
+88,coriander,-86.0
+232,milk,-84.0
+125,cayenne,-82.0
+171,peanut,-74.0
+111,mushroom,-73.0
+170,celery,-72.0
+202,stock,-70.0
+210,fish,-61.0
+191,yeast,-57.0
+128,chicken,-51.0
+137,cheddar,-50.0
+126,coconut,-49.0
+104,turmeric,-48.0
+185,bacon,-47.0
+233,pork,-47.0
+68,breadcrumbs,-43.0
+42,peanut butter,-39.0
+198,pasta,-39.0
+112,eggplant,-38.0
+74,mayonnaise,-38.0
+39,baking powder,-38.0
+118,paprika,-38.0
+87,mayonnais,-38.0
+72,cauliflower,-35.0
+211,dill,-34.0
+212,crab,-33.0
+238,rye,-31.0
+48,onion powder,-29.0
+149,butter,-29.0
+53,tomato sauce,-25.0
+231,pear,-25.0
+227,salt,-24.0
+79,sour cream,-24.0
+183,chile,-24.0
+139,oregano,-22.0
+229,lamb,-22.0
+236,jam,-21.0
+188,cocoa,-20.0
+105,rosemary,-19.0
+189,basil,-18.0
+186,thyme,-18.0
+223,peas,-18.0
+43,lemon extract,-17.0
+213,wine,-17.0
+27,cilantro leaves,-16.0
+214,kale,-16.0
+222,nuts,-16.0
+143,coffee,-15.0
+32,almond extract,-15.0
+168,sesame,-13.0
+37,salad dressing,-12.0
+98,bay leave,-12.0
+94,croissant,-11.0
+60,baking soda,-11.0
+47,curry leaves,-10.0
+100,chickpeas,-9.0
+5,Dairy,-9.0
+179,clams,-8.0
+109,broccoli,-8.0
+101,molasses,-8.0
+187,pesto,-6.0
+172,tamari,-6.0
+89,buckwheat,-6.0
+123,lentils,-6.0
+86,guacamole,-5.0
+145,hummus,-4.0
+136,ketchup,-4.0
+91,blueberry,-4.0
+78,blackberry,-4.0
+99,sourdough,-4.0
+31,teriyaki sauce,-3.0
+40,vanilla syrup,-3.0
+80,pita bread,-3.0
+122,spinach,-3.0
+219,corn,-3.0
+129,mussels,-3.0
+150,tempeh,-2.0
+116,hazelnut,-2.0
+107,cake mix,-2.0
+55,chilli paste,-2.0
+23,chocolate syrup,-2.0
+54,garlic sauce,-2.0
+165,yogurt,-2.0
+146,millet,-2.0
+114,soybeans,-2.0
+130,lobster,-1.0
+24,bok choy leaves,-1.0
+52,peanut sauce,-1.0
+166,bagels,-1.0
+38,caramel syrup,-1.0
+70,sage leaves,-1.0
+148,flakes,-1.0
+177,dijon,-1.0
+17,worcestershire sauce,-1.0
+103,scallops,-1.0
+20,apple cider syrup,0.0
+18,coconut milk sauce,0.0
+140,falafel,0.0
+21,green curry sauce,0.0
+19,lemon butter sauce,0.0
+71,olive paste,0.0
+67,fruit paste,0.0
+66,onion sauce,0.0
+63,cream sauce,0.0
+61,curry sauce,0.0
+59,granola bars,0.0
+56,protein bars,0.0
+49,cherry sauce,0.0
+75,date cream,0.0
+95,bbq sauce,0.0
+46,sambal sauce,0.0
+45,energy drink,0.0
+44,chutney sauce,0.0
+36,bechamel sauce,0.0
+93,tabbouleh,0.0
+73,peach sauce,0.0
+22,strawberry sauce,0.0
+25,chocolate cream,0.0
+26,bearnaise sauce,0.0
+34,mushroom sauce,0.0
+33,barbecue sauce,0.0
+30,tzatziki sauce,0.0
+169,banana,2.0
+65,mint leaves,2.0
+234,pie,2.0
+62,curry paste,2.0
+226,oats,4.0
+162,carrot,4.0
+156,shrimp,4.0
+108,couscous,5.0
+157,papaya,6.0
+155,seitan,6.0
+113,red wine,6.0
+193,broth,7.0
+29,condensed milk,7.0
+90,ice cream,7.0
+76,cornstarch,7.0
+134,noodles,8.0
+142,oysters,8.0
+58,wasabi paste,9.0
+57,cherry syrup,10.0
+180,salsa,10.0
+81,hot sauce,10.0
+35,chocolate cake,11.0
+144,barley,12.0
+106,cocktail,12.0
+221,tofu,13.0
+69,pizza sauce,13.0
+41,garlic powder,14.0
+115,cilantro,18.0
+228,kiwi,19.0
+175,beans,20.0
+51,basil leaves,20.0
+161,cashew,20.0
+121,popcorn,21.0
+164,quinoa,22.0
+84,tortillas,23.0
+218,sage,23.0
+235,oil,24.0
+119,mustard,27.0
+199,jelly,28.0
+174,mango,28.0
+215,plum,29.0
+50,agave nectar,29.0
+203,peach,31.0
+160,ginger,31.0
+83,soy sauce,33.0
+141,cabbage,33.0
+117,parmesan,34.0
+132,garnish,37.0
+151,walnut,38.0
+82,pistachio,40.0
+102,cucumber,41.0
+230,mint,41.0
+96,raspberry,41.0
+201,cream,42.0
+173,wheat,47.0
+176,seeds,47.0
+131,lettuce,48.0
+216,beer,49.0
+239,nut,50.0
+205,grape,55.0
+97,chocolate,58.0
+225,soda,65.0
+178,cider,66.0
+182,sugar,66.0
+167,nutmeg,70.0
+133,avocado,70.0
+195,chips,71.0
+240,tea,72.0
+28,vanilla extract,75.0
+64,maple syrup,84.0
+77,strawberry,90.0
+184,water,92.0
+208,honey,97.0
+159,cheese,99.0
+190,lemon,103.0
+16,Difficulty,104.0
+181,pecan,106.0
+124,vinegar,125.0
+92,pineapple,129.0
+147,almond,129.0
+127,vanilla,145.0
+110,cinnamon,152.0
+207,olive,183.0
+224,lime,204.0
+152,orange,218.0
+204,vodka,218.0
+135,liqueur,239.0
+200,apple,311.0
+197,juice,524.0
+7,Fur,596.0
+13,Steps,1656.0
+12,Num_ing,2380.0
+10,Carbs,8242.0
