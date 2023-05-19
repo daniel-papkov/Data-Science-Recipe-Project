@@ -1,2 +1,0 @@
-after running inial_data_review() we can see that we have different sizes for the same ingridient like small or large eggs
-fix the correlations 
