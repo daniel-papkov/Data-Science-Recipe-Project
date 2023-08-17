@@ -1,5 +1,5 @@
 Title: Recipe Rating Prediction using Web Scraping and Machine Learning
-
+@DanielShapi4a , @daniel-papkov
 About:
 
 This project focuses on predicting recipe ratings by leveraging machine learning techniques on scraped data from a popular recipe site. By extracting information such as ingredients, cooking time, and preparation methods using Python libraries like Beautiful Soup and Selenium, we built a robust dataset that was cleaned and transformed to train and test our models.
